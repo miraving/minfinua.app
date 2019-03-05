@@ -79,11 +79,11 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/screenshot/screenshot_1.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.7
 
-device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "ffffff"
+body_background_color                     : "#ffffff"
 
 link_color                                : "#1d63ea"
 
