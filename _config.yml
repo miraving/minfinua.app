@@ -9,7 +9,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The application for web resource minfin.com.ua. \nYou will have possible to viewing news from service minfin.com.ua also observe currency rate for USD, EUR, RUB. \n\nThis project will be improving all the time.
+app_description                           : The application for web resource minfin.com.ua. You will have possible to viewing news from service minfin.com.ua also observe currency rate for USD, EUR, RUB. This project will be improving all the time.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
