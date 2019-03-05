@@ -22,13 +22,12 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Vitalii Obertynskyi                               
 # your_link                                 : https://emilbaehr.com                     
 your_city                                 : Lviv, Ukraine                                
-# email_address                             : @me.com
-facebook_username                         :                                           
+email_address                             : m380632350383@icloud.com
+# facebook_username                         :                                           
 # instagram_username                        : ebaehr
 twitter_username                          : _miraving
 github_username                           : miraving
 youtube_username                          :
-
 
 
 # Feature List                            Edit, add or remove features to be presented.
@@ -85,7 +84,7 @@ cover_image                               : assets/screenshot/screenshot_6.png  
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "ffffff"
 
